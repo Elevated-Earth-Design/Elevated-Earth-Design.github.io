@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="760" viewBox="0 0 1400 760">
+  <title>Elevated Earth Design — topographic Table Mountain logo</title>
+  <desc>Monochrome, scalable logo with a simplified flat-topped mountain profile and smooth, continuous contour bands.</desc>
+  <g fill="none" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Simplified Table Mountain profile: Devil's Peak to the left, flat plateau, Twelve Apostles, Lion's Head to the right. -->
+    <path stroke-width="5.5" d="M92 420
+      C142 395 191 373 236 347
+      C271 328 293 297 321 290
+      C344 284 353 308 373 310
+      C397 312 419 286 441 277
+      C463 268 479 279 493 288
+      C512 274 529 251 543 229
+      C552 214 568 210 589 210
+      L872 210
+      C891 210 908 220 925 235
+      C944 252 959 265 982 274
+      C1007 284 1024 303 1043 317
+      C1064 333 1086 334 1106 319
+      C1126 305 1141 283 1151 267
+      C1160 252 1170 256 1179 274
+      C1199 316 1235 349 1274 373
+      C1292 384 1311 400 1328 420"/>
+
+    <!-- Evenly spaced bands track the mountain's broad form; avoid sharp turns and stray fragments. -->
+    <path stroke-width="3.6" d="M146 416
+      C194 392 236 371 272 350
+      C304 331 323 314 341 315
+      C361 317 372 338 393 337
+      C416 336 435 313 455 304
+      C478 293 496 309 511 317
+      C529 296 545 272 559 252
+      C571 236 588 232 609 232
+      L855 232
+      C877 232 892 242 910 257
+      C932 276 953 289 974 296
+      C998 305 1017 324 1037 339
+      C1060 356 1084 356 1105 340
+      C1123 326 1140 305 1153 288
+      C1160 278 1167 280 1174 294
+      C1195 335 1228 367 1268 395"/>
+
+    <path stroke-width="3.6" d="M204 416
+      C246 395 282 377 310 359
+      C331 347 345 340 359 344
+      C379 350 392 366 411 363
+      C433 360 453 338 472 331
+      C492 324 508 339 526 347
+      C544 321 560 297 576 278
+      C590 263 606 255 626 255
+      L835 255
+      C858 255 874 265 893 280
+      C914 297 936 311 957 318
+      C983 327 1004 344 1025 360
+      C1049 377 1078 379 1100 363
+      C1120 348 1138 328 1153 311
+      C1160 303 1165 305 1172 317
+      C1190 352 1221 382 1251 405"/>
+
+    <path stroke-width="3.6" d="M269 416
+      C301 400 330 384 350 374
+      C368 365 382 369 399 383
+      C417 397 436 390 455 376
+      C477 361 494 356 512 367
+      C533 379 544 376 559 354
+      C576 329 590 310 606 296
+      C621 283 636 278 656 278
+      L814 278
+      C837 278 854 288 873 303
+      C894 319 915 331 938 339
+      C964 348 984 364 1006 380
+      C1031 398 1067 401 1093 383
+      C1115 368 1135 349 1153 333
+      C1162 325 1169 328 1178 341
+      C1195 369 1218 394 1240 413"/>
+
+    <path stroke-width="3.6" d="M344 416
+      C367 406 387 398 403 399
+      C422 400 436 407 455 401
+      C479 393 497 382 514 389
+      C535 398 555 401 574 383
+      C594 363 610 342 628 326
+      C645 310 659 302 678 302
+      L794 302
+      C817 302 837 312 856 326
+      C877 341 899 354 922 362
+      C949 371 971 388 993 401
+      C1020 416 1054 417 1084 399
+      C1108 385 1133 370 1154 354
+      C1165 346 1173 350 1184 364
+      C1198 383 1214 401 1233 416"/>
+
+    <path stroke-width="3.6" d="M451 416
+      C472 411 490 405 509 411
+      C531 419 554 418 574 405
+      C595 392 617 371 638 352
+      C656 337 673 326 692 326
+      L778 326
+      C801 326 821 336 840 350
+      C861 365 884 377 907 385
+      C934 394 959 408 977 416"/>
+
+    <!-- Baseline is part of the mark, kept separate from the terrain strokes. -->
+    <path stroke-width="4.5" d="M92 420 H1328"/>
+  </g>
+
+  <g fill="#ffffff" font-family="Montserrat, Avenir Next, Arial, sans-serif" text-anchor="middle">
+    <text x="700" y="535" font-size="66" font-weight="500" letter-spacing="15">ELEVATED EARTH</text>
+    <text x="700" y="608" font-size="35" font-weight="400" letter-spacing="17">DESIGN</text>
+  </g>
+  <g fill="none" stroke="#ffffff" stroke-width="2.5">
+    <path d="M245 596 H500"/>
+    <path d="M900 596 H1155"/>
+  </g>
+</svg>
